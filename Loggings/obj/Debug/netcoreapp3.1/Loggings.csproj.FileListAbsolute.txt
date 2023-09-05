@@ -1,0 +1,10 @@
+C:\Users\ayushpal\source\repos\BookStore\Loggings\bin\Debug\netcoreapp3.1\Loggings.deps.json
+C:\Users\ayushpal\source\repos\BookStore\Loggings\bin\Debug\netcoreapp3.1\Loggings.dll
+C:\Users\ayushpal\source\repos\BookStore\Loggings\bin\Debug\netcoreapp3.1\Loggings.pdb
+C:\Users\ayushpal\source\repos\BookStore\Loggings\obj\Debug\netcoreapp3.1\Loggings.csproj.AssemblyReference.cache
+C:\Users\ayushpal\source\repos\BookStore\Loggings\obj\Debug\netcoreapp3.1\Loggings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayushpal\source\repos\BookStore\Loggings\obj\Debug\netcoreapp3.1\Loggings.AssemblyInfoInputs.cache
+C:\Users\ayushpal\source\repos\BookStore\Loggings\obj\Debug\netcoreapp3.1\Loggings.AssemblyInfo.cs
+C:\Users\ayushpal\source\repos\BookStore\Loggings\obj\Debug\netcoreapp3.1\Loggings.csproj.CoreCompileInputs.cache
+C:\Users\ayushpal\source\repos\BookStore\Loggings\obj\Debug\netcoreapp3.1\Loggings.dll
+C:\Users\ayushpal\source\repos\BookStore\Loggings\obj\Debug\netcoreapp3.1\Loggings.pdb
